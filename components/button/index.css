@@ -1,3 +1,18 @@
-/**
-* add your css here
-*/
+.someblock__button--primary {
+  background-color: var(--primary-color);
+  border-radius: 50rem;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1;
+  margin: 0;
+  font-weight: 700;
+  padding: 1rem;
+  text-align: center;
+  transition: all 0.2s;
+}
+.someblock__button--primary:hover {
+  background-color: var(--primary-color--hover);
+}
