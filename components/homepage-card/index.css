@@ -1,0 +1,9 @@
+.homepage-card {
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.homepage-card img {
+  border-radius: 1rem;
+}
